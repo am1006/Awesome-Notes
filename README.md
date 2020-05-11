@@ -1,6 +1,5 @@
 <div align="center">
-<img width="500" src="src/logo.svg" alt="Awesome-Notes Logo">
-
+<img width="500" src="src/logo.svg" alt="Awesome Notes Logo">
 </div>
 
 # Awesome-Notes 
