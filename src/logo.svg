@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="341px" height="200px" viewBox="0 0 341 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <path d="M341,35.7377807 L316.128205,13.0165125 L312.629573,16.8143989 L333.356068,35.7377807 L251.660513,35.7377807 L272.387009,16.7978864 L268.888376,13 L244.016581,35.7377807 L244,35.7377807 L244,50.7146631 C244,57.4848085 250.549573,63 258.591453,63 L273.92906,63 C281.97094,63 288.520513,57.4848085 288.520513,50.7146631 L288.520513,40.8731836 L296.479487,40.8731836 L296.479487,50.7146631 C296.479487,57.4848085 303.02906,63 311.07094,63 L326.408547,63 C334.450427,63 341,57.4848085 341,50.7146631 L341,35.7377807 Z" id="Path" fill="#4B3466" fill-rule="nonzero"></path>
+            <text id="Awesome" font-family="Roboto-Medium, Roboto" font-size="48" font-weight="400" fill="#4C566A">
+                <tspan x="0.25" y="50">Awesome</tspan>
+            </text>
+            <text id="Notes" font-family="Roboto-Bold, Roboto" font-size="128" font-weight="bold" fill="#4C566A">
+                <tspan x="0" y="169">Notes</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
